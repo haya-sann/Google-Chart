@@ -1,7 +1,7 @@
   // maximum value for the gauge
   var max_gauge_value = 40;
   // name of the gauge
-  var gauge_name = escape('気温');
+  var gauge_name = '%u6C17%u6E29';
 
   // global variables
   var chart, charts, data;
